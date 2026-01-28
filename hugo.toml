@@ -1,0 +1,6 @@
+baseURL = 'https://luoshen9497.github.io/'
+languageCode = 'zh-CN'
+title = '软件测试学习笔记'
+# 原有配置保留，新增以下内容
+theme = "ananke"
+
